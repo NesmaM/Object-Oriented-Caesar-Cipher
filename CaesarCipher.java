@@ -1,9 +1,7 @@
 import edu.duke.*;
 /**
- * Write a description of CaeserCipher here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Nesma Abouzaid) 
+ * @version (07/10/2023)
  */
 public class CaesarCipher {
     private String alphabet;
